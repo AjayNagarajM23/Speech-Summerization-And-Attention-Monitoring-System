@@ -28,4 +28,11 @@ To convert speech input into text, the VOSK model was employed, generating a tra
 
 ## Conclusion
 
-The Speech Summarization and Attention Monitoring System for Classroom Assistance is a comprehensive project that aims to provide valuable insights into classroom interactions and student engagement. By analyzing attention levels and generating summarized transcripts, this
+In conclusion, the "Speech Summarization and Attention Monitoring System for Classroom Assistance" successfully integrated computer vision and natural language processing techniques to monitor attention levels in a classroom and provide summarized text
+outputs. The project demonstrated effective insights into classroom dynamics and the
+potential to support educational environments for enhanced learning experiences.
+
+
+## Conclusion
+![Screenshot from 2023-06-03 10-57-26](https://github.com/AjayNagarajM23/Speech-Summerization-And-Attention-Monitoring-System/assets/105035860/2bc47e02-3536-4241-b20e-0cc70ae04642)
+
